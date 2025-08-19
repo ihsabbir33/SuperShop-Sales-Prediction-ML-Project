@@ -36,10 +36,9 @@ The model captures patterns in product and outlet features and helps supermarket
 
 
 
-## References
-1. Swami, D., Shah, A. D., & Ray, S. K. B. (2020). *Predicting Future Sales of Retail Products using Machine Learning*. arXiv preprint arXiv:2008.07779.  
-2. Ganguly, P., & Mukherjee, I. (2024). *Enhancing Retail Sales Forecasting with Optimized Machine Learning Models*. arXiv preprint arXiv:2410.13773.  
-3. Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)  
+#Dsataset
+1. Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)  
+
 
 
 
