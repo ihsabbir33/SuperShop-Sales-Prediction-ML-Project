@@ -3,8 +3,6 @@
 ## Overview
 The SuperShop Sales Prediction project aims to forecast sales for products in different supermarket outlets using historical sales data. The project uses machine learning (XGBoost regression) to predict future sales, helping supermarkets manage inventory, plan pricing, and make informed business decisions.
 
-## Motivation
-Supermarkets often face challenges like overstocking, understocking, and uncertain demand. Using machine learning to analyze past sales and product data allows better inventory planning, smarter pricing, and improved business efficiency.
 
 ## Features
 - Predict sales for different products and outlets.
@@ -50,5 +48,6 @@ The model captures patterns in product and outlet features and helps supermarket
 ## References
 1. Swami, D., Shah, A. D., & Ray, S. K. B. (2020). *Predicting Future Sales of Retail Products using Machine Learning*. arXiv preprint arXiv:2008.07779.  
 2. Ganguly, P., & Mukherjee, I. (2024). *Enhancing Retail Sales Forecasting with Optimized Machine Learning Models*. arXiv preprint arXiv:2410.13773.  
-3. Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales)  
+3. Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)  
+
 
