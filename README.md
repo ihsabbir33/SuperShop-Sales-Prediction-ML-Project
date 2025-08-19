@@ -34,20 +34,12 @@ The SuperShop Sales Prediction project aims to forecast sales for products in di
 
 The model captures patterns in product and outlet features and helps supermarkets forecast sales for better inventory and business decisions.
 
-## Limitations
-- Moderate accuracy on test data may indicate overfitting.  
-- Only uses available features; ignores promotions, seasonal trends, and customer behavior.  
-- Dataset size may limit generalization.
 
-## Future Scope
-- Improve model accuracy with more data and feature engineering.  
-- Include additional factors like promotions, seasonal trends, and customer behavior.  
-- Explore other machine learning or deep learning models.  
-- Integrate with real-time sales and inventory management systems.
 
 ## References
 1. Swami, D., Shah, A. D., & Ray, S. K. B. (2020). *Predicting Future Sales of Retail Products using Machine Learning*. arXiv preprint arXiv:2008.07779.  
 2. Ganguly, P., & Mukherjee, I. (2024). *Enhancing Retail Sales Forecasting with Optimized Machine Learning Models*. arXiv preprint arXiv:2410.13773.  
 3. Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)  
+
 
 
