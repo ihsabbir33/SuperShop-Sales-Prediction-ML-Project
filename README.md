@@ -24,7 +24,7 @@ The SuperShop Sales Prediction project aims to forecast sales for products in di
 8. Evaluate model performance using R² score.
 
 ## Environment
-- **Python**: 3.10  
+- **Python**: 3.13.5
 - **Platform**: Google Colab  
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`  
 
@@ -40,6 +40,7 @@ The model captures patterns in product and outlet features and helps supermarket
 1. Swami, D., Shah, A. D., & Ray, S. K. B. (2020). *Predicting Future Sales of Retail Products using Machine Learning*. arXiv preprint arXiv:2008.07779.  
 2. Ganguly, P., & Mukherjee, I. (2024). *Enhancing Retail Sales Forecasting with Optimized Machine Learning Models*. arXiv preprint arXiv:2410.13773.  
 3. Kaggle Dataset: [Supermarket Sales Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)  
+
 
 
 
